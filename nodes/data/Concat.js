@@ -1,5 +1,5 @@
 import GraphNode from "../GraphNode.js";
-import StringIO from "../io/StringIO.js";
+import StringIO from "../IO/StringIO.js";
 
 export default class Concat extends GraphNode {
     constructor(x, y) {

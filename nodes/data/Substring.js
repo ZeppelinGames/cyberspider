@@ -1,6 +1,6 @@
 import GraphNode from "../GraphNode.js";
 import NumberIO from "../IO/NumberIO.js";
-import StringIO from "../io/StringIO.js";
+import StringIO from "../IO/StringIO.js";
 
 
 export default class Substring extends GraphNode {

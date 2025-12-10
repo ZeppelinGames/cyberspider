@@ -1,5 +1,10 @@
 # CyberSpider
 
+Demo: [https://zeppelingames.github.io/cyberspider/](https://zeppelingames.github.io/cyberspider/)
+
+***Note:*** There is currently no cycle/loop detection in node connections. Can lead to stack overflows/memory issues.
+
+
 ### Creating Custom IO
 All IO should extend the `IO` class and contain a constructor that takes 1 argument (id)
 ```js
